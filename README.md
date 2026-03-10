@@ -2,7 +2,7 @@
 
 Biblioteca modular de utilitários plug-and-play para qualquer framework CSS (Bootstrap 5, Tailwind, Vanilla) — sem dependências além do framework escolhido.
 
-**Versão:** 3.0.0  
+**Versão:** 4.1.1  
 **Licença:** Proprietária (uso restrito)  
 **Repositório:** https://github.com/jepasa/fwk-utilities
 
@@ -32,10 +32,11 @@ A demo pública está em `demo/` e apresenta os módulos disponíveis com exempl
   - `dist/fwk-utilities.min.js`
   - `bundle/fwk-utilities.bundle.min.js`
   - CDN jsDelivr (ex.: `https://cdn.jsdelivr.net/gh/jepasa/fwk-utilities@latest/bundle/fwk-utilities.bundle.min.js`)
+- No build modular, somente arquivos com sufixo `*.min.js` são ofuscados e minificados; arquivos `*.js` comuns permanecem legíveis para edição e inspeção.
 - O bundle é compilado com configurações padrão e locale embutido `en-US`.
 - O usuário pode carregar idiomas adicionais manualmente em runtime via callback/API (`registerLocale` / `loadLocale`).
 - O usuário pode definir configurações via callback/API na inicialização ou editando `dist/lib/js/fwku-config.js` (arquivo não minificado e não ofuscado).
-- Em `dist/lang/`, o usuário pode editar/adicionar idiomas; apenas `dist/lang/i18n-core.min.js` é minificado.
+- Em `dist/lang/`, o usuário pode editar/adicionar idiomas; `dist/lang/lib/i18n-adapter.min.js` e `dist/lang/lib/i18n-core.min.js` são minificados, enquanto `dist/lang/lib/i18n-conf.js` permanece editável.
 - Com `autoLanguage` habilitado, qualquer novo idioma adicionado em `dist/lang/` pode ser resolvido automaticamente com fallback para o idioma padrão.
 
 ---
