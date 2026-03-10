@@ -1,6 +1,6 @@
 {
   "name": "fwk-utilities",
-  "version": "4.0.0",
+  "version": "4.1.1",
   "description": "FWK Utilities — Biblioteca modular de utilitários plug-and-play para qualquer framework CSS, escrita em TypeScript vanilla.",
   "type": "module",
   "main": "dist/fwk-utilities.min.js",
