@@ -2,7 +2,7 @@
 
 Biblioteca modular de utilitários plug-and-play para qualquer framework CSS (Bootstrap 5, Tailwind, Vanilla) — sem dependências além do framework escolhido.
 
-**Versão:** 4.1.1  
+**Versão:** 4.1.2  
 **Licença:** Proprietária (uso restrito)  
 **Repositório:** https://github.com/jepasa/fwk-utilities
 

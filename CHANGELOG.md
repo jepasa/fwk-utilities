@@ -9,7 +9,14 @@ e versionamento em [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
-- Novo módulo `dropdown-utility`: extensão complementar do Bootstrap 5 Dropdown com hover, flip automático, animações CSS, submenus aninhados (até 3 níveis), megamenu responsivo e navegação por teclado WCAG 2.1 AA.
+- Novo módulo `dropdown-utility`: extensão complementar Dropdown com hover, flip automático, animações CSS, submenus aninhados (multinível), megamenu responsivo e navegação por teclado WCAG 2.1 AA.
+
+## [4.1.2] — 2026-03-10
+
+### Changed
+
+- Bump de versão do pacote para `4.1.2`.
+- Metadados e cabeçalhos de versão dos artefatos públicos em `dist/` e `bundle/` alinhados com a nova release.
 
 ## [4.1.1] — 2026-03-10
 
