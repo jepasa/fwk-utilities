@@ -1,0 +1,44 @@
+{
+  "name": "fwk-utilities",
+  "version": "4.0.0",
+  "description": "FWK Utilities — Biblioteca modular de utilitários plug-and-play para qualquer framework CSS, escrita em TypeScript vanilla.",
+  "type": "module",
+  "main": "dist/fwk-utilities.min.js",
+  "module": "dist/fwk-utilities.min.js",
+  "files": [
+    "bundle",
+    "demo",
+    "dist",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ],
+  "exports": {
+    ".": {
+      "import": "./dist/fwk-utilities.min.js",
+      "default": "./dist/fwk-utilities.min.js"
+    }
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "utilities",
+    "form-validation",
+    "modal",
+    "dropdown",
+    "carousel",
+    "vanilla-js",
+    "accessibility",
+    "wcag"
+  ],
+  "author": "Jeferson Padilha (jepasa.com)",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jepasa/fwk-utilities.git"
+  },
+  "engines": {
+    "node": ">=20.19.0",
+    "npm": ">=10.0.0"
+  }
+}

@@ -1,0 +1,55 @@
+BTS UTILITIES — LICENÇA PROPRIETÁRIA (USO RESTRITO)
+
+Copyright (c) 2026 Jeferson Padilha
+Todos os direitos reservados.
+
+AVISO IMPORTANTE
+Este software é proprietário. O simples acesso ao repositório, cópia do código ou
+distribuição do pacote NÃO concede permissão de uso. O uso é permitido somente a
+quem adquirir uma licença válida e receber autorização expressa do detentor dos
+direitos.
+
+1. DEFINIÇÕES
+   "Software" significa BTS Utilities, incluindo código-fonte, arquivos gerados (build),
+   documentação e quaisquer materiais associados.
+   "Licenciado" significa a pessoa física ou jurídica que adquiriu uma licença válida.
+   "Detentor dos Direitos" significa o autor/empresa proprietária indicada acima.
+
+2. CONCESSÃO DE LICENÇA (SE E SOMENTE SE HOUVER LICENÇA VÁLIDA)
+   Sujeito ao pagamento/aquisição e ao cumprimento destes termos, o Detentor dos Direitos
+   concede ao Licenciado uma licença limitada, não exclusiva, intransferível e revogável
+   para:
+   a) usar o Software, em formato não modificado, em seus próprios projetos/ambientes;
+   b) copiar o Software apenas na medida necessária para instalação, deploy e backup.
+
+3. RESTRIÇÕES
+   Salvo autorização expressa e por escrito do Detentor dos Direitos, é proibido:
+   a) modificar, adaptar, traduzir, criar obras derivadas, ou alterar qualquer parte do Software;
+   b) redistribuir, publicar, sublicenciar, vender, alugar, ceder, compartilhar ou disponibilizar
+   o Software (ou partes dele) a terceiros, gratuitamente ou não;
+   c) remover/alterar avisos de direitos autorais, marcas, metadados, ou qualquer identificação;
+   d) realizar engenharia reversa, descompilar, desmontar, ou tentar extrair segredos comerciais,
+   exceto quando a lei local permitir de forma irrenunciável.
+
+4. PROPRIEDADE INTELECTUAL
+   O Software é e permanecerá propriedade exclusiva do Detentor dos Direitos. Nenhum direito
+   ou título é transferido ao Licenciado, exceto o direito limitado de uso descrito nesta licença.
+
+5. RESCISÃO
+   O descumprimento de quaisquer termos encerra automaticamente esta licença. Em caso de
+   rescisão, o Licenciado deve cessar imediatamente o uso e destruir todas as cópias do Software
+   em sua posse ou controle.
+
+6. ISENÇÃO DE GARANTIAS
+   O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA" (AS IS), SEM GARANTIAS DE
+   QUALQUER TIPO, EXPRESSAS OU IMPLÍCITAS, INCLUINDO, MAS NÃO SE LIMITANDO A, GARANTIAS
+   DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO E NÃO VIOLAÇÃO.
+
+7. LIMITAÇÃO DE RESPONSABILIDADE
+   NA MÁXIMA EXTENSÃO PERMITIDA POR LEI, EM NENHUM CASO O DETENTOR DOS DIREITOS SERÁ
+   RESPONSÁVEL POR QUAISQUER DANOS INDIRETOS, INCIDENTAIS, ESPECIAIS, CONSEQUENCIAIS OU
+   LUCROS CESSANTES, DECORRENTES DO USO OU DA IMPOSSIBILIDADE DE USO DO SOFTWARE.
+
+8. CONTATO / LICENCIAMENTO
+   Para solicitar autorização expressa, termos comerciais ou exceções, contate:
+   contato@jepasa.com
