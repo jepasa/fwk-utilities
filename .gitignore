@@ -1,0 +1,5 @@
+# Ferramentas e utilitarios locais nao versionados
+tools/
+
+# Arquivos de workspace novos nao devem entrar no repositorio
+*.code-workspace
